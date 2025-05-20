@@ -1,0 +1,18 @@
+{
+  "name": "skilllink",
+  "version": "1.0.0",
+  "description": "This is the official repository of SkillLink - a SAAS that offers employers to hire developers through our service. It is mainly done by taking remote interviews which is one the main functionalities of this software.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.8.1"
+  }
+}
